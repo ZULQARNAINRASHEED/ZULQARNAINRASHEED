@@ -1,28 +1,24 @@
 
-<h1 align="center">Hi 👋, I'm Zulqarnain Rasheed</h1>
 
-<h3 align="center">Junior Full-Stack Developer | Laravel & React.js</h3>
+### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  Building modern web applications, REST APIs and SaaS solutions.
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 I'm working on Full-Stack Web Development.
-- 🌱 I'm learning advanced Laravel and React.js.
-- 💡 Interested in SaaS applications and scalable web solutions.
-- 🎓 BS Computer Science Student.
-- 🎯 Goal: To become a professional Full-Stack Developer.
-- 💼 Open to Junior Developer opportunities.
-
-### 🛠️ Tech Stack
-
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,react,js,mysql,html,css,bootstrap,git,github,vscode" />
 </p>
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZULQARNAINRASHEED&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZULQARNAINRASHEED&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ZULQARNAINRASHEED&theme=tokyonight" />
+</p>
+
 
 ### 🚀 Featured Projects
 
