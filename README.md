@@ -13,6 +13,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZULQARNAINRASHEED&layout=compact&theme=tokyonight" height="165" />
 </p>
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,js,mysql,html,css,bootstrap,git,github,vscode" />
+</p>
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZULQARNAINRASHEED&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZULQARNAINRASHEED&layout=compact&theme=tokyonight" height="165" />
+</p>
+
 ### 🔥 Contribution Streak
 
 <p align="center">
